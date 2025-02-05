@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full-stack web applications Open-source projects
 - 📫 How to reach me arjunpatel89806@gmail.com , https://www.linkedin.com/in/arjun-d-patel-a14064325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: AI eat jobs. 
+- ⚡ Fun fact: AI don't eat jobs. 
 
 <!---
 Arjun-Patel1/Arjun-Patel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
