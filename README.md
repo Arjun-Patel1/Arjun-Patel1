@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Arjun-Patel1
-- 👀 I’m interested in Aspiring Full-Stack Developer passionate about designing and building scalable, user-friendly web applications.
-- 🌱 I’m currently learning Frontend Development: HTML, CSS, JavaScript, React, Backend Development: Node.js, Express.js, MongoDB, Version Control: Git, GitHub,Deployment and Cloud Technologies
-- 💞️ I’m looking to collaborate on Full-stack web applications Open-source projects
+- 👋 Hi, I’m **@Arjun-Patel1**
+- 👀🚀 **Aspiring Cloud Data Engineer** passionate about designing and building scalable data solutions.  
+- 🌱 **Currently Learning:**  
+- **Data Engineering:** SQL, NoSQL, ETL Pipelines, Apache Spark  
+- **Cloud Technologies:** AWS, Azure, Google Cloud Platform  
+- **Backend Development:** Node.js, Express.js  
+- **Big Data & Databases:** MongoDB, PostgreSQL, Data Warehousing  
+- **Version Control & Deployment:** Git, GitHub, CI/CD  
+-💞️ **Looking to Collaborate On:**  
+- Data Engineering projects  
+- Cloud-based solutions  
+- Open-source contributions  
 - 📫 How to reach me arjunpatel89806@gmail.com , https://www.linkedin.com/in/arjun-d-patel-a14064325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: AI don't eat jobs. 
+- ⚡ Fun fact: Data is the new oil, and I'm here to refine it!  
 
 <!---
 Arjun-Patel1/Arjun-Patel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
