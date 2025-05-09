@@ -1,15 +1,10 @@
 - 👋 Hi, I’m **@Arjun-Patel1**
-- 👀🚀 **Aspiring Cloud Data Engineer** passionate about designing and building scalable data solutions.  
-- 🌱 **Currently Learning:**  
-- **Data Engineering:** SQL, NoSQL, ETL Pipelines, Apache Spark  
-- **Cloud Technologies:** AWS, Azure, Google Cloud Platform  
-- **Backend Development:** Node.js, Express.js  
-- **Big Data & Databases:** MongoDB, PostgreSQL, Data Warehousing  
-- **Version Control & Deployment:** Git, GitHub, CI/CD  
--💞️ **Looking to Collaborate On:**  
-- Data Engineering projects  
-- Cloud-based solutions  
-- Open-source contributions  
+- 👀🚀 Data Scientist, ML engineer
+- 👨‍💻 Data Science Enthusiast | Python | ML | SQL
+🎓 ICT Engineering Student (2026) | Sal Institute of Tech
+💡 Built ML projects on diabetes prediction, house price estimation, and customer churn
+⚙️ Skilled in Pandas, NumPy, Scikit-learn, XGBoost, Tableau, Power BI  
+- **Version Control & Deployment:** Git, GitHub 
 - 📫 How to reach me arjunpatel89806@gmail.com , https://www.linkedin.com/in/arjun-d-patel-a14064325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data is the new oil, and I'm here to refine it!  
