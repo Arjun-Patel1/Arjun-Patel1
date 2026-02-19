@@ -1,5 +1,6 @@
 - 👋 Hi, I’m **@Arjun-Patel1**
 Top projects:
+Currently working on AgroBot and Nutrirate App ( Repositories are Github)
   1. IDIS 2.0 – Intelligent Document Intelligence System: https://github.com/Arjun-Patel1/IDIS2.0
   2. Recommendation System - https://github.com/Arjun-Patel1/recsys2.0
   3. self-healing-rag - https://github.com/Arjun-Patel1/self-healing-rag
