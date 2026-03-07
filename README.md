@@ -22,17 +22,17 @@
 ## 💼 Professional Experience
 
 ### 🔬 AI & Data Skills Intern | Microsoft Corporation (Bengaluru)
-*Jul 2025 - Jul 2025*
+*Jul 2025 - Jul 2025* 
 * **Core Achievement:** Developed a hybrid log classification system using **E5-small-v2 embeddings** + Logistic Regression.
 * **Impact:** Achieved **99% accuracy (0.98 F1 score)** and successfully deployed the model using **FastAPI** for real-time inference.
 
 ### 🤖 AI Intern | Infosys Springboard
-*Feb 2026 - Apr 2026*
+*Feb 2026 - March 2026* 
 * **Core Achievement:** Engineered a multilingual **AI Agrobot** to deliver precise, context-aware agricultural advisories.
 * **Impact:** Integrated the **Google Gemini API** to process farmer queries and generate actionable insights across multiple languages.
 
 ### 📊 Data & ML Intern | FICE (Microsoft Elevate Program)
-*12-Week Program*
+*Jan 2026- March 2026*
 * **Core Achievement:** Executed end-to-end data analysis workflows and machine learning model training on real-world datasets.
 * **Impact:** Designed interactive **Power BI dashboards** to visualize complex data trends and model outputs.
 
