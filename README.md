@@ -22,17 +22,17 @@
 ## 💼 Professional Experience
 
 ### 🔬 AI & Data Skills Intern | Microsoft Corporation (Bengaluru)
-*Jul 2025 - Jul 2025* 
+*Jul 2025 - Jul 2025*
 * **Core Achievement:** Developed a hybrid log classification system using **E5-small-v2 embeddings** + Logistic Regression.
 * **Impact:** Achieved **99% accuracy (0.98 F1 score)** and successfully deployed the model using **FastAPI** for real-time inference.
 
 ### 🤖 AI Intern | Infosys Springboard
-*Feb 2026 - March 2026* 
+*Feb 2026 - Apr 2026*
 * **Core Achievement:** Engineered a multilingual **AI Agrobot** to deliver precise, context-aware agricultural advisories.
 * **Impact:** Integrated the **Google Gemini API** to process farmer queries and generate actionable insights across multiple languages.
 
 ### 📊 Data & ML Intern | FICE (Microsoft Elevate Program)
-*Jan 2026- March 2026*
+*12-Week Program*
 * **Core Achievement:** Executed end-to-end data analysis workflows and machine learning model training on real-world datasets.
 * **Impact:** Designed interactive **Power BI dashboards** to visualize complex data trends and model outputs.
 
@@ -41,8 +41,8 @@
 ## 🛠️ Technical Arsenal
 
 ### 🤖 AI, ML & Data Engineering
-* **Expertise:** Prompt Engineering, Model Deployment, Data Analysis, Statistical Computing, ML Pipeline Design.
-* **Tech Stack:** `Python` `TensorFlow` `Scikit-Learn` `XGBoost` `LangGraph` `LangChain` `Agentic AI` `HuggingFace` `Sentence Transformers` `LightGCN` `SASRec` `Pandas` `SciPy` `Azure ML Services`
+* **Expertise:** Recommendation Systems, Prompt Engineering, Model Deployment, Statistical Computing, ML Pipeline Design.
+* **Tech Stack:** `Python` `TensorFlow (TFRS)` `Keras` `Scikit-Learn` `XGBoost` `LangGraph` `Agentic AI` `HuggingFace` `Sentence Transformers` `LightGCN` `SASRec` `Pandas` `Polars` `SciPy` `Azure ML`
 * **Vector DBs:** `FAISS` `ChromaDB`
 
 ### ⚙️ DevOps, MLOps & Automation
@@ -57,7 +57,7 @@
 
 ### 💻 Programming & Development
 * **Skills:** MERN Stack Development, RESTful API Design, Database Management.
-* **Frontend/UI:** `ReactJS` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma`
+* **Frontend/UI:** `ReactJS` `Streamlit` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma`
 * **Backend:** `FastAPI`
 * **Databases:** `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Flask-SQLAlchemy`
 
@@ -72,19 +72,26 @@
 
 ## 🚀 Flagship Projects (Solo Architect)
 
-### 🤖 1. RepoRover: Agentic Software Engineer
+### 🎬 1. ScaleRec: Tier-1 Multi-Stage Recommendation Engine
+*A production-grade, two-stage recommendation pipeline handling 25M+ interactions, mimicking Netflix-tier architectures.*
+* **Tech Stack:** TensorFlow Recommenders (TFRS), Polars, FAISS, FastAPI, Streamlit, Gemini 2.5 Flash, Docker.
+* **Architecture:** Engineered a two-stage funnel: **SASRec** (Transformer-based) + **FAISS** for high-recall retrieval (<10ms), followed by a **Deep & Cross Network (DCN-V2)** for high-precision ranking. Processed 25M rows with Rust-based Polars.
+* **Agentic AI:** Built *PopGuru*, an LLM-augmented agent with strict system guardrails for zero-shot conversational discovery of real-time trending media, bypassing temporal model limits.
+* **Impact:** Achieved 97.7% Stage 1 accuracy and sub-50ms end-to-end inference latency.
+
+### 🤖 2. RepoRover: Agentic Software Engineer
 *An autonomous, multi-agent AI system acting as a local software engineer.*
 * **Tech Stack:** LangGraph, Llama 3.1 (Ollama), Docker SDK, GitPython, CodeRAG.
 * **Innovation:** Solved LLM "Generation Fatigue" by designing a **Surgical Architect** workflow. Used atomic patching and structural regex to perform non-destructive code edits instead of full-file rewrites.
 * **Execution:** Features a safe **Docker testing sandbox** and human-in-the-loop Git push functionality directly to **GitHub**.
 
-### 🌾 2. AI-AgroBot: Multimodal Agri-Tech Platform
+### 🌾 3. AI-AgroBot: Multimodal Agri-Tech Platform
 *A full-stack, AI-powered agricultural assistant for crop advisory and disease detection.*
 * **Tech Stack:** Flask, Google Gemini API, SQLite, Bootstrap 5, NLP.
 * **Intelligence:** Utilizes NLP for intent detection and a computer vision pipeline where farmers upload leaf images to receive human-friendly treatment plans.
 * **Architecture:** Secured with Werkzeug/Flask-Login and backed by a 12-table relational database for query logging and AI learning.
 
-### 🍎 3. NutriRate: AI-Powered Nutrition Analytics
+### 🍎 4. NutriRate: AI-Powered Nutrition Analytics
 *Data-driven food grading and health coaching mobile application.*
 * **Tech Stack:** Flutter (Dart), Python (Pandas), Google Gemini, Supabase.
 * **Core Feature:** Developed a proprietary grading algorithm (A-E scale) analyzing food scan data and nutritional parameters.
@@ -106,7 +113,7 @@ While I excel at solo deep-work (as seen in my flagship projects), I thrive in c
 
 *I am highly active in the open-source community with **21 Public Repositories** and consistent coding streaks.*
 * **2025 Contributions:** 137+
-* **2026 Contributions:** 190+ (and counting!)
+* **2026 Contributions:** 185+ (and counting!)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-Patel1&theme=react-dark&hide_border=true" alt="Arjun's GitHub Streak" />
