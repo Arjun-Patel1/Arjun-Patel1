@@ -106,13 +106,14 @@ While I excel at solo deep-work (as seen in my flagship projects), I thrive in c
 
 *I am highly active in the open-source community with **21 Public Repositories** and consistent coding streaks.*
 * **2025 Contributions:** 137+
-* **2026 Contributions:** 185+ (and counting!)
+* **2026 Contributions:** 190+ (and counting!)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-Patel1&theme=react-dark&hide_border=true" alt="Arjun's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Patel1&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Arjun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Patel1&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Patel1&show_icons=true&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Patel1&layout=compact&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
