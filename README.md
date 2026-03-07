@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="banner.jpg" alt="AI Network Banner" width="100%" style="border-radius: 10px;" />
+  <br/><br/>
+  
   <h1>Hi there, I'm Arjun Patel 👋</h1>
   <h3>🚀 Aspiring AI/ML Engineer | Data & Systems Architect | Agile Team Leader</h3>
- <h4>📫 How to reach me arjunpatel89806@gmail.com , www.linkedin.com/in/arjunpatel97259 </h4>
-
   <p><i>"Transforming complex data into intelligent, scalable, and agentic solutions."</i></p>
 </div>
 
@@ -103,12 +104,12 @@ While I excel at solo deep-work (as seen in my flagship projects), I thrive in c
 
 ## 📊 GitHub Analytics & Activity
 
-*I am highly active in the open-source community with **21 Public Repositories** and consistent daily coding streaks.*
+*I am highly active in the open-source community with **21 Public Repositories** and consistent coding streaks.*
 * **2025 Contributions:** 137+
 * **2026 Contributions:** 185+ (and counting!)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-Patel1&theme=react-dark&hide_border=true&area=true" alt="Arjun's Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-Patel1&theme=react-dark&hide_border=true" alt="Arjun's GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Patel1&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Arjun's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Patel1&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
