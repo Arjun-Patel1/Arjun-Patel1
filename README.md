@@ -1,21 +1,151 @@
-- 👋 Hi, I’m **@Arjun-Patel1**
-Top projects:
-Currently working on AgroBot and Nutrirate App ( Repositories are on Github)
-  1. Reporover - https://github.com/Arjun-Patel1/Reporover 
-  2. Recommendation System - https://github.com/Arjun-Patel1/recsys2.0
-  3. self-healing-rag - https://github.com/Arjun-Patel1/self-healing-rag
-  4. Hybrid Log Classification Framework - https://github.com/Arjun-Patel1/Hybrid-Log-classification
-  5. ADEGuard - https://github.com/Arjun-Patel1/ADEGuard
-  6. IDIS 2.0 – Intelligent Document Intelligence System: https://github.com/Arjun-Patel1/IDIS2.0
-- 👀🚀 AI, ML engineer
-- 👨‍💻 AI ML NLP
-🎓 BE in Information and Communication Technology (2026) | Sal Institute of Tech
-  
-- **Version Control & Deployment:** Git, GitHub, Streamlit,  Fastapi
-- 📫 How to reach me arjunpatel89806@gmail.com , www.linkedin.com/in/arjunpatel97259
-- 😄 Pronouns: He/Him
+<div align="center">
+  <h1>Hi there, I'm Arjun Patel 👋</h1>
+  <h3>🚀 Aspiring AI/ML Engineer | Data & Systems Architect | Agile Team Leader</h3>
+ <h4>📫 How to reach me arjunpatel89806@gmail.com , www.linkedin.com/in/arjunpatel97259 </h4>
 
-<!---
-Arjun-Patel1/Arjun-Patel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p><i>"Transforming complex data into intelligent, scalable, and agentic solutions."</i></p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **Education:** B.E. in Information & Communication Technology (ICT) | **CGPA: 7.67**
+- 🎯 **Current Focus:** Seeking opportunities as an **AI/ML Engineer** with a focus on MLOps and scalable deployments.
+- 💡 **Work Style:** Deep-dive solo builder & empathetic Agile team leader. 
+- 🤝 **Collaboration:** Experienced in leading coding squads, enforcing Pair Programming, and executing Scrum sprints.
+- ⚡ **Fun Fact:** I treat team project deadlines like production deployments—always keeping buffer time and RMMM (Risk Mitigation, Monitoring, and Management) principles in mind!
+
+---
+
+## 💼 Professional Experience
+
+### 🔬 AI & Data Skills Intern | Microsoft Corporation (Bengaluru)
+*Jul 2025 - Jul 2025*
+* **Core Achievement:** Developed a hybrid log classification system using **E5-small-v2 embeddings** + Logistic Regression.
+* **Impact:** Achieved **99% accuracy (0.98 F1 score)** and successfully deployed the model using **FastAPI** for real-time inference.
+
+### 🤖 AI Intern | Infosys Springboard
+*Feb 2026 - Apr 2026*
+* **Core Achievement:** Engineered a multilingual **AI Agrobot** to deliver precise, context-aware agricultural advisories.
+* **Impact:** Integrated the **Google Gemini API** to process farmer queries and generate actionable insights across multiple languages.
+
+### 📊 Data & ML Intern | FICE (Microsoft Elevate Program)
+*12-Week Program*
+* **Core Achievement:** Executed end-to-end data analysis workflows and machine learning model training on real-world datasets.
+* **Impact:** Designed interactive **Power BI dashboards** to visualize complex data trends and model outputs.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🤖 AI, ML & Data Engineering
+* **Expertise:** Prompt Engineering, Model Deployment, Data Analysis, Statistical Computing, ML Pipeline Design.
+* **Tech Stack:** `Python` `TensorFlow` `Scikit-Learn` `XGBoost` `LangGraph` `LangChain` `Agentic AI` `HuggingFace` `Sentence Transformers` `LightGCN` `SASRec` `Pandas` `SciPy` `Azure ML Services`
+* **Vector DBs:** `FAISS` `ChromaDB`
+
+### ⚙️ DevOps, MLOps & Automation
+* **Version Control & CI/CD:** `Git` `GitHub` `GitHub Actions`
+* **Containerization:** `Docker` `Docker SDK`
+* **ML Lifecycle & Tracking:** `MLflow`
+* **Practices:** CI/CD Pipeline Design, Infrastructure as Code (IaC), Configuration Management, Shell Scripting, Monitoring & Observability.
+
+### ☁️ Cloud & Infrastructure
+* **Azure Specializations:** Resource Management (AZ-104), App Development (AZ-204), Security Engineering (AZ-500), AI Fundamentals (AI-900), Power BI Analytics (PL-300).
+* **Core Skills:** Cloud Architecture, Infrastructure Design, Multi-Cloud Deployments.
+
+### 💻 Programming & Development
+* **Skills:** MERN Stack Development, RESTful API Design, Database Management.
+* **Frontend/UI:** `ReactJS` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma`
+* **Backend:** `FastAPI`
+* **Databases:** `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Flask-SQLAlchemy`
+
+### 🔐 Security & Networking
+* **Practices:** Cloud Security Architecture, Identity & Access Management (IAM), Network Security, Compliance & Governance, Threat Detection.
+* **Tools:** `Werkzeug` `Flask-Login` `Supabase`
+
+### 🐧 Operating Systems
+* **Administration:** Linux Server Management, Network Configuration, Security Hardening, Performance Tuning, System Monitoring.
+
+---
+
+## 🚀 Flagship Projects (Solo Architect)
+
+### 🤖 1. RepoRover: Agentic Software Engineer
+*An autonomous, multi-agent AI system acting as a local software engineer.*
+* **Tech Stack:** LangGraph, Llama 3.1 (Ollama), Docker SDK, GitPython, CodeRAG.
+* **Innovation:** Solved LLM "Generation Fatigue" by designing a **Surgical Architect** workflow. Used atomic patching and structural regex to perform non-destructive code edits instead of full-file rewrites.
+* **Execution:** Features a safe **Docker testing sandbox** and human-in-the-loop Git push functionality directly to **GitHub**.
+
+### 🌾 2. AI-AgroBot: Multimodal Agri-Tech Platform
+*A full-stack, AI-powered agricultural assistant for crop advisory and disease detection.*
+* **Tech Stack:** Flask, Google Gemini API, SQLite, Bootstrap 5, NLP.
+* **Intelligence:** Utilizes NLP for intent detection and a computer vision pipeline where farmers upload leaf images to receive human-friendly treatment plans.
+* **Architecture:** Secured with Werkzeug/Flask-Login and backed by a 12-table relational database for query logging and AI learning.
+
+### 🍎 3. NutriRate: AI-Powered Nutrition Analytics
+*Data-driven food grading and health coaching mobile application.*
+* **Tech Stack:** Flutter (Dart), Python (Pandas), Google Gemini, Supabase.
+* **Core Feature:** Developed a proprietary grading algorithm (A-E scale) analyzing food scan data and nutritional parameters.
+* **Data Engineering:** Managed the complete data pipeline from raw image scans to calorie calculations, integrating an AI conversational coach for personalized diet advice.
+
+---
+
+## 👥 Leadership & Agile Mastery
+
+While I excel at solo deep-work (as seen in my flagship projects), I thrive in collaborative environments.
+* **Team Leadership:** Successfully led 3 development teams across 6+ group projects in college. 
+* **Agile/Scrum:** Implemented structured sprints, goal-setting, and timeline management to ensure projects were completed efficiently before deadlines.
+* **Mentorship & Collaboration:** Championed **Pair Programming** and robust **Git/GitHub branching strategies** among team members to boost code quality and knowledge sharing.
+* **Adaptability:** Skilled in adjusting RMMM (Risk Mitigation) plans on the fly—like reallocating tasks seamlessly when a team member is unavailable.
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+*I am highly active in the open-source community with **21 Public Repositories** and consistent daily coding streaks.*
+* **2025 Contributions:** 137+
+* **2026 Contributions:** 185+ (and counting!)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-Patel1&theme=react-dark&hide_border=true&area=true" alt="Arjun's Contribution Graph" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Patel1&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Patel1&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+### 🏅 Microsoft Learn Champion
+**Achieved 181 Badges & 18 Trophies** across advanced cloud and AI modules, including:
+* **Security & IAM:** Microsoft Defender for Cloud, Zero Trust, Entra ID, Network Security Groups, Threat Protection.
+* **Generative AI & Copilot:** GitHub Copilot (Python/JS), Microsoft Foundry SDK, RAG-based solutions, Copilot Studio Autonomous Agents.
+* **Data & Analytics:** Power BI Dashboard Design, DAX Calculations, Microsoft Purview Governance.
+* **Cloud Infrastructure:** Azure App Service, Container Instances, ARM Templates, Blob Storage Lifecycle, Serverless Functions.
+
+<details>
+<summary><b>Click to expand Other Technical Certifications</b></summary>
+
+* **Microsoft Learn (Pathways):** Power BI, Microsoft Azure Fundamentals, Cloud Administration and Engineering, AI and ML, Microsoft Copilot.
+* **Google:** Google Cloud & Vertex AI Badges (3).
+* **Infosys Springboard:** Agile Scrum in Practice, Deep Learning for Developers, Generative Models for Developers, OpenAI GPT-3 for Developers, Intro to OpenAI GPT Models, Computer Vision 101, Intro to Deep Learning, Intro to AI, Intro to NLP, Intro to Data Science, Principles of Generative AI, Generative AI Unleashing, Prompt Engineering.
+* **Coursera:** Build a free website with WordPress.
+* **Simplilearn:** Intro to Graphic Design (Basic UI/UX), Introduction to SQL.
+* **GeeksforGeeks:** 3-Weeks Python Course.
+</details>
+
+<details>
+<summary><b>Click to expand Soft Skills & Workshops</b></summary>
+
+* **Infosys Springboard:** High Impact Presentation, Email Writing Skills, Time Management, Introduction to Robotic Process Automation.
+* **Workshops Attended (SAL Institute):** Cybersecurity (2022), Web Design using Django (2023), Website Development using ReactJS (2024).
+* **Other:** Holds various Social Initiatives and Community Outreach certificates.
+</details>
+
+---
+<div align="center">
+  <i>"Building systems that outlast you, creating value that matters, and never stopping the learning process."</i><br>
+  <b>Let's connect and build something amazing together!</b>
+</div>
