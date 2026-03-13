@@ -41,7 +41,7 @@
 ## 🛠️ Technical Arsenal
 
 ### 🤖 AI, ML & Data Engineering
-* **Expertise:** Recommendation Systems, Prompt Engineering, Model Deployment, Statistical Computing, ML Pipeline Design.
+* **Expertise:** Recommendation Systems, Prompt Engineering, Model Deployment, Statistical Computing, ML Pipeline Design, Natural Language Processing (NLP).
 * **Tech Stack:** `Python` `TensorFlow (TFRS)` `Keras` `Scikit-Learn` `XGBoost` `LangGraph` `Agentic AI` `HuggingFace` `Sentence Transformers` `LightGCN` `SASRec` `Pandas` `Polars` `SciPy` `Azure ML`
 * **Vector DBs:** `FAISS` `ChromaDB`
 
@@ -58,7 +58,7 @@
 ### 💻 Programming & Development
 * **Skills:** MERN Stack Development, RESTful API Design, Database Management.
 * **Frontend/UI:** `ReactJS` `Streamlit` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma`
-* **Backend:** `FastAPI`
+* **Backend:** `FastAPI` `Flask`
 * **Databases:** `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Flask-SQLAlchemy`
 
 ### 🔐 Security & Networking
@@ -85,11 +85,12 @@
 * **Innovation:** Solved LLM "Generation Fatigue" by designing a **Surgical Architect** workflow. Used atomic patching and structural regex to perform non-destructive code edits instead of full-file rewrites.
 * **Execution:** Features a safe **Docker testing sandbox** and human-in-the-loop Git push functionality directly to **GitHub**.
 
-### 🌾 3. AI-AgroBot: Multimodal Agri-Tech Platform
-*A full-stack, AI-powered agricultural assistant for crop advisory and disease detection.*
-* **Tech Stack:** Flask, Google Gemini API, SQLite, Bootstrap 5, NLP.
-* **Intelligence:** Utilizes NLP for intent detection and a computer vision pipeline where farmers upload leaf images to receive human-friendly treatment plans.
-* **Architecture:** Secured with Werkzeug/Flask-Login and backed by a 12-table relational database for query logging and AI learning.
+### 🌾 3. AI-AgroBot: Multimodal Agri-Tech NLP Platform
+*A full-stack, AI-powered agricultural assistant delivering crop advisory, disease detection, and market insights via natural language.*
+* **Tech Stack:** Flask, Google Gemini API, SQLite, JavaScript/AJAX, Bootstrap 5.
+* **NLP Engine:** Built an intent-driven NLP pipeline using the **Gemini API** for tokenization, entity recognition (identifying crops/diseases), and context understanding. Includes a fallback rule-based NLP knowledge base for offline continuity.
+* **Computer Vision & Multimodal UI:** Engineered a vision-to-text pipeline where farmers upload leaf images (processed via PIL), which the AI analyzes and translates into human-friendly treatment steps served via Jinja2 & AJAX without page reloads.
+* **Data & Security Architecture:** Designed a 12-table relational schema using Flask-SQLAlchemy for continuous NLP query logging to improve model accuracy. Secured the platform using Werkzeug (Bcrypt password hashing), Flask-Login session management, CSRF protection, and parameterized SQL injection prevention.
 
 ### 🍎 4. NutriRate: AI-Powered Nutrition Analytics
 *Data-driven food grading and health coaching mobile application.*
