@@ -47,18 +47,18 @@
 
 ### ⚙️ DevOps, MLOps & Automation
 * **Version Control & CI/CD:** `Git` `GitHub` `GitHub Actions`
-* **Containerization:** `Docker` `Docker SDK`
+* **Containerization:** `Docker` `Docker Compose` `Docker SDK`
 * **ML Lifecycle & Tracking:** `MLflow`
 * **Practices:** CI/CD Pipeline Design, Infrastructure as Code (IaC), Configuration Management, Shell Scripting, Monitoring & Observability.
 
 ### ☁️ Cloud & Infrastructure
 * **Azure Specializations:** Resource Management (AZ-104), App Development (AZ-204), Security Engineering (AZ-500), AI Fundamentals (AI-900), Power BI Analytics (PL-300).
-* **Core Skills:** Cloud Architecture, Infrastructure Design, Multi-Cloud Deployments.
+* **Core Skills:** Cloud Architecture, Infrastructure Design, Multi-Cloud Deployments, **Azure (Deploying Live Websites & Apps)**.
 
 ### 💻 Programming & Development
 * **Skills:** MERN Stack Development, RESTful API Design, Database Management.
-* **Frontend/UI:** `ReactJS` `Streamlit` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma`
-* **Backend:** `FastAPI` `Flask`
+* **Frontend/UI:** `ReactJS` `Streamlit` `JavaScript (JS)` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Figma` `Jinja Templates`
+* **Backend:** `FastAPI` `Flask` `Django`
 * **Databases:** `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Flask-SQLAlchemy`
 
 ### 🔐 Security & Networking
@@ -73,11 +73,10 @@
 ## 🚀 Flagship Projects (Solo Architect)
 
 ### 🎬 1. ScaleRec: Tier-1 Multi-Stage Recommendation Engine
-*A production-grade, two-stage recommendation pipeline handling 25M+ interactions, mimicking Netflix-tier architectures.*
-* **Tech Stack:** TensorFlow Recommenders (TFRS), Polars, FAISS, FastAPI, Streamlit, Gemini 2.5 Flash, Docker.
-* **Architecture:** Engineered a two-stage funnel: **SASRec** (Transformer-based) + **FAISS** for high-recall retrieval (<10ms), followed by a **Deep & Cross Network (DCN-V2)** for high-precision ranking. Processed 25M rows with Rust-based Polars.
-* **Agentic AI:** Built *PopGuru*, an LLM-augmented agent with strict system guardrails for zero-shot conversational discovery of real-time trending media, bypassing temporal model limits.
-* **Impact:** Achieved 97.7% Stage 1 accuracy and sub-50ms end-to-end inference latency.
+*A production-grade, two-stage recommendation pipeline mimicking Netflix-tier architectures.*
+* **Tech Stack:** TensorFlow Recommenders (TFRS), Django, FastAPI, FAISS, Gemini 2.5 Flash, Docker Compose.
+* **Architecture & ML:** Architected a two-stage deep learning recommendation engine leveraging SASRec for temporal sequence modeling and DCN-V2 for accurate click-through ranking, optimizing sub-millisecond candidate retrieval via FAISS vector search served through a FastAPI microservice.
+* **Web & Deployment:** Engineered a decoupled Django web dashboard with in-memory caching (LocMemCache) to eliminate disk I/O latency for 60,000+ records, integrating a Gemini 2.5 LLM Copilot for real-time analytics, and fully containerized the pipeline using Docker Compose.
 
 ### 🤖 2. RepoRover: Agentic Software Engineer
 *An autonomous, multi-agent AI system acting as a local software engineer.*
