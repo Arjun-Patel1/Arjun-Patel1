@@ -32,7 +32,7 @@
 * **Impact:** Integrated the **Google Gemini API** to process farmer queries and generate actionable insights across multiple languages.
 
 ### 📊 Data & ML Intern | FICE (Microsoft Elevate Program)
-*12-Week Program*
+*Jan 2026 - March 2026*
 * **Core Achievement:** Executed end-to-end data analysis workflows and machine learning model training on real-world datasets.
 * **Impact:** Designed interactive **Power BI dashboards** to visualize complex data trends and model outputs.
 
