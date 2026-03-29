@@ -3,7 +3,7 @@
   <br/><br/>
   
   <h1>Hi there, I'm Arjun Patel 👋</h1>
-  <h3>🚀  AI/ML Engineer | Data & Systems Architect </h3>
+  <h3>🚀  AI/ML Engineer | Full Stack Engineer </h3>
   <p><i>"Transforming complex data into intelligent, scalable, and agentic solutions."</i></p>
 </div>
 
